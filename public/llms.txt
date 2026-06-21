@@ -1,0 +1,108 @@
+# שיפודיה בשקד — Generative Engine Optimization Map
+
+> Shashlik (skewer) restaurant named 'Bishkad', specializing in grilled meat skewers. A Middle Eastern-style grill restaurant with a focus on traditional skewer dishes.
+
+---
+
+## Pages
+
+### בית
+https://-e753623e.zappy5.app
+מחפש מסעדות קרובות עם בשר על האש אגדי? שיפודיה בשקד מגישה שיפודים מסורתיים על גחלים, טעם מזרח תיכוני מנצח. הזמן שולחן עוד היום ותיהנה מחוויה קולינרית יוצאת דופן.
+
+### ניסיון
+https://-e753623e.zappy5.app/experience
+הכירו מקרוב את אומנות השיפודים על פחמים לוהטים. צפו בבשלנים המומחים שלנו יוצרים מנות עסיסיות ומלאות טעם. בואו לחוש את הניסיון של דורות במסעדת גריל ייחודית ובלתי נשכחת.
+
+### אודות
+https://-e753623e.zappy5.app/about
+מסעדת שיפודיה בשקד נולדה מאהבה לבשר משובח ומסורת יוקדת. אנו מביאים לכם מתכונים משפחתיים שעוברים מדור לדור, עם חומרי גלם טריים וכשרות מהודרת. גלו את התשוקה שמאחורי כל מנה.
+
+### צור קשר
+https://-e753623e.zappy5.app/contact
+מוכנים להתענג על שיפודים עסיסיים מהגריל? צרו קשר עם שיפודיה בשקד עוד היום להזמנת מקום, אירועים פרטיים או כל שאלה. הצוות שלנו מחכה להעניק לכם שירות חם וארוחה שתמיד תזכרו.
+
+### Products
+https://-e753623e.zappy5.app/products
+המוצרים שלנו - שיפודיה בשקד
+
+### Cart
+https://-e753623e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-e753623e.zappy5.app/checkout
+תשלום
+
+### Login
+https://-e753623e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-e753623e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-e753623e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-e753623e.zappy5.app/product/:slug
+פרטי המוצר - שיפודיה בשקד
+
+### Category
+https://-e753623e.zappy5.app/category/:slug
+מוצרים - שיפודיה בשקד
+
+### תודה על פנייתך | שיפודיה בשקד
+https://-e753623e.zappy5.app/thank-you
+שיפודיה בשקד - תודה על פנייתך | שיפודיה בשקד
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e753623e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e753623e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e753623e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שיפודיה בשקד
+Shashlik (skewer) restaurant named 'Bishkad', specializing in grilled meat skewers. A Middle Eastern-style grill restaurant with a focus on traditional skewer dishes.
+
+## Services/Products
+- שיפודים
+- מנות בשר
+
+## Target Audience
+- חובבי אוכל מקומיים
+- ארוחות עסקיות
+- אנשים שמחפשים מה לאכול
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e753623e.zappy5.app/sitemap.xml
+- Robots: https://-e753623e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e753623e.zappy5.app/llms-full.txt
+- Products (JSON): https://-e753623e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-e753623e.zappy5.app/product-feed.xml
